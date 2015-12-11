@@ -1,0 +1,17 @@
+{
+    "name": "herault/cqrs",
+    "authors": [
+        {
+            "name": "Antoine Hérault",
+            "email": "antoine.herault@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    },
+    "require": {
+        "ramsey/uuid": "^3.0"
+    }
+}
